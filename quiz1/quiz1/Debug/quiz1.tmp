@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 1\quiz1\quiz1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 1\quiz1\quiz1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128a1udef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128A1Udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 1\quiz1\quiz1\Debug\quiz1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>quiz1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>quiz1.map</FILE>
+  <FILE>quiz1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 1\quiz1\quiz1\main.asm</FILE><LINE>20</LINE></MAIN>
+  <Table><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 1\quiz1\quiz1\main.asm</FILE><LINE>9</LINE></Table>
+  <filtable><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 1\quiz1\quiz1\main.asm</FILE><LINE>14</LINE></filtable>
+  <TOP><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 1\quiz1\quiz1\main.asm</FILE><LINE>27</LINE></TOP>
+  <DONE><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 1\quiz1\quiz1\main.asm</FILE><LINE>37</LINE></DONE>
+ </LABELS>
+</ASSEMBLER_INFO>

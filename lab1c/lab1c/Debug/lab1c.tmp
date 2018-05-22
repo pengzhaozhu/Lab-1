@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 1\lab1c\lab1c\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 1\lab1c\lab1c\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128a1udef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128A1Udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 1\lab1c\lab1c\Debug\lab1c.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab1c.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab1c.map</FILE>
+  <FILE>lab1c.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 1\lab1c\lab1c\main.asm</FILE><LINE>26</LINE></MAIN>
+  <Table><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 1\lab1c\lab1c\main.asm</FILE><LINE>17</LINE></Table>
+  <filtable><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 1\lab1c\lab1c\main.asm</FILE><LINE>22</LINE></filtable>
+  <THIRD><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 1\lab1c\lab1c\main.asm</FILE><LINE>37</LINE></THIRD>
+  <DOWN><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 1\lab1c\lab1c\main.asm</FILE><LINE>67</LINE></DOWN>
+  <BITSET><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 1\lab1c\lab1c\main.asm</FILE><LINE>48</LINE></BITSET>
+  <TCLEAR><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 1\lab1c\lab1c\main.asm</FILE><LINE>57</LINE></TCLEAR>
+  <SUBTRACT><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 1\lab1c\lab1c\main.asm</FILE><LINE>53</LINE></SUBTRACT>
+  <STOR><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 1\lab1c\lab1c\main.asm</FILE><LINE>63</LINE></STOR>
+  <DONE><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 1\lab1c\lab1c\main.asm</FILE><LINE>69</LINE></DONE>
+ </LABELS>
+</ASSEMBLER_INFO>
